@@ -19,9 +19,9 @@
 ……到底哪里出了问题？
 
 
-## [点此在线阅读 (GitHub Pages)](https://novel.librian.it/)
+## [点此在线阅读 (GitHub Pages)](https://novel.librian.net/)
 
-<https://novel.librian.it/>
+<https://novel.librian.net/>
 
 
 ## 许可
